@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command WinFormAddin</Text>
+    <Description>Some description for WinFormAddin</Description>
+    <Assembly>WinFormAddin.dll</Assembly>
+    <FullClassName>WinFormAddin.Command</FullClassName>
+    <ClientId>80C509DF-2A4F-4B67-A31F-7787BD5964D4</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>

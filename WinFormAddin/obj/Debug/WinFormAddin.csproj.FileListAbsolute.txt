@@ -1,0 +1,8 @@
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\bin\Debug\WinFormAddin.dll
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\bin\Debug\WinFormAddin.pdb
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\obj\Debug\WinFormAddin.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\obj\Debug\WinFormAddin.NewForm.resources
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\obj\Debug\WinFormAddin.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\obj\Debug\WinFormAddin.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\obj\Debug\WinFormAddin.dll
+C:\Users\Julian\source\repos\WinFormAddin\WinFormAddin\obj\Debug\WinFormAddin.pdb
